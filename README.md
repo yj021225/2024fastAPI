@@ -80,4 +80,3 @@ urllib3==2.2.1
 uvicorn==0.28.1
 zipp==3.18.1
 
-<img src="https://github.com/yj021225/2024fastAPI/blob/88c612441468e6dc9775cbc76e165f1681047832/movier.html%20%ED%99%94%EB%A9%B4.png">
