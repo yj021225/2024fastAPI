@@ -1,5 +1,8 @@
 # 2024fastAPI
 fastAPI를 이용한 붓꽃분류시스템, 영화추천시스템, 2024 1학기 캡스톤프로젝트
+<div align=center>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</div>
 
 ## 붓꽃분류시스템
 개발환경 <br>
