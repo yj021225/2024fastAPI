@@ -37,6 +37,7 @@ typing_extensions==4.10.0
 tzdata==2024.1
 uvicorn==0.27.1
 
+<img src="https://github.com/yj021225/2024fastAPI/blob/be95c5a7e63e117dacfbc1ca04faed21c0fdf2f6/iris.html_%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.png">
 ## 영화추천시스템
 개발환경 <br>
 annotated-types==0.6.0
